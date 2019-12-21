@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/bg.png</file>
+        <file>assets/bluescape-logo.svg</file>
+        <file>assets/button_down.png</file>
+        <file>assets/button_up.png</file>
+        <file>BluescapeBackground.qml</file>
+        <file>BluescapeBackgroundForm.ui.qml</file>
+        <file>ClickMeButton.qml</file>
+        <file>ClickMeButtonForm.ui.qml</file>
+        <file>DisplayText.qml</file>
+        <file>DisplayTextForm.ui.qml</file>
+        <file>Receiver.qml</file>
+        <file>Sender.qml</file>
+        <file>BluescapeLogo.qml</file>
+        <file>BluescapeLogoForm.ui.qml</file>
+        <file>samplewords/sampleWords-1.txt</file>
+        <file>samplewords/sampleWords-2.txt</file>
+    </qresource>
+</RCC>
